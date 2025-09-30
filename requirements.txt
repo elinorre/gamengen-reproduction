@@ -1,0 +1,6 @@
+numpy
+torch
+gymnasium[atari,accept-rom-license]
+stable-baselines3[extra]
+ale-py
+imageio
